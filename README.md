@@ -1,1 +1,1 @@
-This is a repo for learning git
+changed text for step 3
